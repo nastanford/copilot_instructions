@@ -21,3 +21,7 @@ applyTo: "**/*.cfc"
 - Group related methods logically within the component.
 - Use meaningful, descriptive names for methods and properties.
 - Avoid using `cfcomponent` attributes that are deprecated or unnecessary.
+
+- Place opening braces on a new line
+Use ternary operators where possible
+- Make sure all tabs start and end line up vertically.

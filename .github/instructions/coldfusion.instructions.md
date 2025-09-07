@@ -20,4 +20,7 @@ applyTo: "**/*.cfm"
 - Comment complex logic and document functions with purpose and parameters.
 - Prefer `cfinclude` for shared templates, but avoid circular includes.
 
+- Place opening braces on a new line
+Use ternary operators where possible
+- Make sure all tabs start and end line up vertically.
 

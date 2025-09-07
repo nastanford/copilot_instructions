@@ -27,3 +27,7 @@ If you are building a ColdFusion application and using unit testing, ensure that
 
 ## Editor Settings
 - Use 2 spaces per tab for all files. This is enforced via the `.editorconfig` file in the project root.
+
+- Place opening braces on a new line
+Use ternary operators where possible
+- Make sure all tabs start and end line up vertically.
