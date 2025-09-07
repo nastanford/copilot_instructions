@@ -9,6 +9,9 @@ applyTo: "**/*"
 - Add a enter in the code after the icon this is not a <br> but just a enter to help the readability.
 - Prefer duotone icons when possible.
 
+# ColdFusion Application Unit Testing
+If you are building a ColdFusion application and using unit testing, ensure that the `/testbox` folder is present in the `wwwroot` directory. This is required for TestBox-based unit tests to run correctly in a standard ColdFusion setup.
+
 # Additional Best Practices
 - Write clear, concise comments for complex logic and important decisions.
 - Use meaningful, descriptive names for files, variables, functions, and classes.
